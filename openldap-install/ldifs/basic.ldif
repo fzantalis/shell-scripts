@@ -1,0 +1,10 @@
+dn: ou=users,dc=server1
+ou: users
+description: All users in server1
+objectClass: top
+objectClass: organizationalUnit
+dn: ou=groups,dc=server1
+ou: groups
+description: All groups in server1
+objectClass: top
+objectClass: organizationalUnit
